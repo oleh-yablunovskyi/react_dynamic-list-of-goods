@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,KACE,gBAAiB,CAEjB,YACE,kBAAmB,CACpB,YAGC,cAAe,CACf,aAAc,CACd,iBAAkB","file":"main.4e06b50e.chunk.css","sourcesContent":[".App {\n  margin-top: 100px;\n\n  &__paper {\n    border-radius: 50px;\n  }\n\n  &__title {\n    font-size: 40px;\n    color: #1e7fdf;\n    text-align: center;\n  }\n}\n"]}
